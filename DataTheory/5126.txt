@@ -1,0 +1,14 @@
+ID            : 5126
+TypeExp       : DIS
+TypeTheo      : RSIG
+TypeCurrent   : NCGAMMA
+A1            : 12
+A2            : 2
+Z1            : 6
+Z2            : 1
+KinVar        : [X, Q2, Y ]
+
+X	Q2	Y	data	theory	totError	totErrorUncor	chi2Naive	chi2Corr
+0.020	4.450	0.260	0.95700	0.95428	0.04048	0.04048	0.00451	0.00451
+0.040	7.910	0.240	0.94600	0.98905	0.06947	0.06947	0.38404	0.38404
+0.309	22.500	0.220	1.02400	0.99195	0.10595	0.10595	0.09150	0.09150
